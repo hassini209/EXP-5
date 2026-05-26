@@ -16,8 +16,11 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
-<img width="1280" height="611" alt="WhatsApp Image 2026-05-25 at 9 13 39 PM" src="https://github.com/user-attachments/assets/39341efe-c3b4-4bee-9277-daded782e198" />
-<img width="658" height="1280" alt="WhatsApp Image 2026-05-25 at 9 12 21 PM (1)" src="https://github.com/user-attachments/assets/cc97beef-a1b9-42a3-8014-1d6b03718e1b" />
+
+<img width="860" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f32aa1b-9def-4712-98e3-48be91f3072b" />
+<img width="843" height="1600" alt="image" src="https://github.com/user-attachments/assets/0621b5e8-c12a-4d6a-a200-ac9d8317360b" />
+
+
 
 
 THEORY:
@@ -33,15 +36,20 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 
 OBSERVATIONS:
-<img width="1280" height="533" alt="WhatsApp Image 2026-05-25 at 9 12 21 PM (2)" src="https://github.com/user-attachments/assets/23ab0764-c310-4949-83ba-be2916006dec" />
-<img width="597" height="1280" alt="WhatsApp Image 2026-05-25 at 9 12 21 PM (3)" src="https://github.com/user-attachments/assets/e67dab34-6fd2-4da0-8228-5e60fb40db83" />
+<img width="641" height="1513" alt="image" src="https://github.com/user-attachments/assets/240a0c7a-ba88-4125-a222-f6fb7b928698" />
+<img width="629" height="1370" alt="image" src="https://github.com/user-attachments/assets/c6d665e1-731d-4628-87f3-f8b3bc0bf3ae" />
+
+
+
 
 REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
-<img width="1280" height="503" alt="WhatsApp Image 2026-05-25 at 9 12 21 PM (4)" src="https://github.com/user-attachments/assets/aa09e5eb-e9fb-45d3-80df-c9cbda64691b" />
-<img width="575" height="1280" alt="WhatsApp Image 2026-05-25 at 9 12 21 PM (5)" src="https://github.com/user-attachments/assets/574a2d1a-925d-4ac9-9887-98bb72e8621b" />
+<img width="782" height="1586" alt="WhatsApp Image 2026-05-27 at 01 56 52" src="https://github.com/user-attachments/assets/88fad2df-8166-4d6e-bace-7c2f674ef4e4" />
+<img width="665" height="1489" alt="WhatsApp Image 2026-05-27 at 01 57 24" src="https://github.com/user-attachments/assets/8f7118aa-bce1-47f2-b946-8dffbedbb69a" />
 
+
+<
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
